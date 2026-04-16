@@ -1,0 +1,6 @@
+whatsapp-web-py>=0.8.3
+qrcode[pil]  # Para gerar QR code visual
+
+# Opcional (melhor performance):
+# openai  # Se for usar OpenAI GPT
+# transformers  # Se for usar modelos locais

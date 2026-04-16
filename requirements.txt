@@ -1,0 +1,2 @@
+# Sem dependências externas - usa apenas biblioteca padrão do Python
+# sqlite3 já vem incluído no Python padrão
